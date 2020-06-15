@@ -1582,7 +1582,8 @@
               "color": "#9e9e9e"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#c1c1c1"
             }
           },
           "_name": "extFooter26",
